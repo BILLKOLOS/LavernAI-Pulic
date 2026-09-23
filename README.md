@@ -19,12 +19,14 @@ LavernAI is a premier knowledge-competition and learning platform built for Keny
 
 ## Get the App
 Download the LavernAI APK and start competing today:
-[🔗 Download LavernAI APK (https://github.com/BILLKOLOS/LavernaiClientBetatest/releases/download/v1.0.0/app-release.apk)](#)
+[🔗 Download LavernAI APK (Latest Release)](https://github.com/BILLKOLOS/LavernaiClientBetatest/releases/download/v1.0.0/app-release.apk)
 
 ## How to Contribute here
 While you won't find source code here, your feedback is crucial:
-- **Found a bug in the app?** Open a [Bug Report](https://github.com/lavernai/lavernai-public/issues/new?template=bug_report.md).
-- **Have an idea?** Submit a [Feature Suggestion](https://github.com/lavernai/lavernai-public/issues/new?template=feature_suggestion.md).
-- **Security Researchers:** See our [SECURITY.md](SECURITY.md) for responsible disclosure guidelines.
+- **Found a bug in the app?** Open a [Bug Report](https://github.com/BILLKOLOS/LavernAI-Pulic/issues/new?template=bug_report.md).
+- **Have an idea?** Submit a [Feature Suggestion](https://github.com/BILLKOLOS/LavernAI-Pulic/issues/new?template=feature_suggestion.md).
+- **Spotted a curriculum error?** Submit a [Curriculum Correction](https://github.com/BILLKOLOS/LavernAI-Pulic/issues/new?template=curriculum_correction.md).
+- **Have a question?** Ask a [General Question](https://github.com/BILLKOLOS/LavernAI-Pulic/issues/new?template=general_question.md).
+- **Security Researchers:** See our [SECURITY.md](https://github.com/BILLKOLOS/LavernAI-Pulic/blob/main/SECURITY.md) for responsible disclosure guidelines.
 
 Together, we're building the future of competitive education in Kenya! 🇰🇪
