@@ -19,7 +19,7 @@ LavernAI is a premier knowledge-competition and learning platform built for Keny
 
 ## Get the App
 Download the LavernAI APK and start competing today:
-[🔗 Download LavernAI APK (Placeholder Link)](#)
+[🔗 Download LavernAI APK (https://github.com/BILLKOLOS/LavernaiClientBetatest/releases/download/v1.0.0/app-release.apk)](#)
 
 ## How to Contribute here
 While you won't find source code here, your feedback is crucial:
